@@ -35,7 +35,7 @@ My research focuses on multi-objective resource management in autonomous mobile 
 
 ## 🕰️ Bio
 
-I am a Ph.D. student in the Autonomous Systems Lab (ASL), University of Turku, supervised by Prof. Juha Plosila and Dr. Hashem Haghbayan. Previously, I worked for five years in the automotive industry, specializing in AI middleware and embedded system development. I hold a Master’s degree in Automation from University of Electronic Science and Technology of China (UESTC).
+I am a Ph.D. student in the Autonomous Systems Lab (ASL), University of Turku, supervised by [Prof. Juha Plosila](https://www.utu.fi/fi/ihmiset/juha-plosila) and [Dr. Hashem Haghbayan](https://www.utu.fi/en/people/hashem-haghbayan). Previously, I worked for five years in the automotive industry, specializing in AI middleware and embedded system development. I hold a Master’s degree in Automation from University of Electronic Science and Technology of China (UESTC).
 
 <!-- ## 🔬 Research Interests
 
