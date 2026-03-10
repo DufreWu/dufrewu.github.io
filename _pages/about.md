@@ -31,7 +31,7 @@ latest_posts:
 
 I'm Chen Wu an Doctoral Researcher in Robotics at the [University of Turku](https://www.utu.fi/en), Finland.
 
-My research focuses on multi-objective resource management in autonomous mobile robots. I combine **reinforcement learning**, **probabilistic reasoning**, and **resource management in heterogeneous systems** to build robust robotic systems.
+My research focuses on AI-aware resource management in mobile robots, combing **LLM Inference**, **Reinforcement Learning**, and **Heterogeneous Systems Optimization** to build efficient and robust autonomous systems.
 
 ## 🕰️ Bio
 
